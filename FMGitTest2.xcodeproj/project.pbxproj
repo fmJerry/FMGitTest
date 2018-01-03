@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		916BACE81FFC76F600298D08 /* FMUtilTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 916BACE71FFC76F600298D08 /* FMUtilTest.m */; };
+		916BACEC1FFC87E000298D08 /* FMUtilTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 916BACEB1FFC87E000298D08 /* FMUtilTest.m */; };
 		91D7B9CE1FFC6FC200DEE572 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 91D7B9CD1FFC6FC200DEE572 /* AppDelegate.m */; };
 		91D7B9D11FFC6FC200DEE572 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 91D7B9D01FFC6FC200DEE572 /* ViewController.m */; };
 		91D7B9D41FFC6FC200DEE572 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 91D7B9D21FFC6FC200DEE572 /* Main.storyboard */; };
@@ -36,8 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		916BACE61FFC76F600298D08 /* FMUtilTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMUtilTest.h; sourceTree = "<group>"; };
-		916BACE71FFC76F600298D08 /* FMUtilTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FMUtilTest.m; sourceTree = "<group>"; };
+		916BACEA1FFC87E000298D08 /* FMUtilTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMUtilTest.h; sourceTree = "<group>"; };
+		916BACEB1FFC87E000298D08 /* FMUtilTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FMUtilTest.m; sourceTree = "<group>"; };
 		91D7B9C91FFC6FC200DEE572 /* FMGitTest2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FMGitTest2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		91D7B9CC1FFC6FC200DEE572 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		91D7B9CD1FFC6FC200DEE572 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -81,11 +81,11 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		916BACE51FFC76F600298D08 /* FangMPodTestUtil */ = {
+		916BACE91FFC87E000298D08 /* FangMPodTestUtil */ = {
 			isa = PBXGroup;
 			children = (
-				916BACE61FFC76F600298D08 /* FMUtilTest.h */,
-				916BACE71FFC76F600298D08 /* FMUtilTest.m */,
+				916BACEA1FFC87E000298D08 /* FMUtilTest.h */,
+				916BACEB1FFC87E000298D08 /* FMUtilTest.m */,
 			);
 			path = FangMPodTestUtil;
 			sourceTree = SOURCE_ROOT;
@@ -117,7 +117,7 @@
 				91D7B9CD1FFC6FC200DEE572 /* AppDelegate.m */,
 				91D7B9CF1FFC6FC200DEE572 /* ViewController.h */,
 				91D7B9D01FFC6FC200DEE572 /* ViewController.m */,
-				916BACE51FFC76F600298D08 /* FangMPodTestUtil */,
+				916BACE91FFC87E000298D08 /* FangMPodTestUtil */,
 				91D7B9D21FFC6FC200DEE572 /* Main.storyboard */,
 				91D7B9D51FFC6FC200DEE572 /* Assets.xcassets */,
 				91D7B9D71FFC6FC200DEE572 /* LaunchScreen.storyboard */,
@@ -278,7 +278,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				916BACE81FFC76F600298D08 /* FMUtilTest.m in Sources */,
+				916BACEC1FFC87E000298D08 /* FMUtilTest.m in Sources */,
 				91D7B9D11FFC6FC200DEE572 /* ViewController.m in Sources */,
 				91D7B9DC1FFC6FC200DEE572 /* main.m in Sources */,
 				91D7B9CE1FFC6FC200DEE572 /* AppDelegate.m in Sources */,
