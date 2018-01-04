@@ -15,9 +15,9 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "XPRACSignal"
+  s.name         = "FMPrivatePodTest"
   s.version      = "1.0.0"
-  s.summary      = "a demo for GitHub."
+  s.summary      = "a demo for Coding."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,10 +25,10 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
-A demo for test how to push project to GitHub
+A demo for test how to push project to Coding
                    DESC
 
-  s.homepage     = "https://github.com/fmJerry/FMGitTest"
+  s.homepage     = "https://coding.net/u/Coder_Ming/p/CorderMCodingTest/git"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -39,7 +39,7 @@ A demo for test how to push project to GitHub
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-  s.license      = { :type => "MIT", :file => "LICENSE" }
+  s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
 
 
@@ -80,7 +80,7 @@ A demo for test how to push project to GitHub
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/fmJerry/FMGitTest.git", :tag => "1.0.0" }
+  s.source       = { :git => "https://git.coding.net/Coder_Ming/CorderMCodingTest.git", :tag => "1.0.0" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
