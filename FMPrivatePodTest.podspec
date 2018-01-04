@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "FMPrivatePodTest"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "a demo for Coding."
 
   # This description is used to generate tags and improve search results.
@@ -80,7 +80,7 @@ A demo for test how to push project to Coding
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://git.coding.net/Coder_Ming/CorderMCodingTest.git", :tag => "1.0.0" }
+  s.source       = { :git => "https://git.coding.net/Coder_Ming/CorderMCodingTest.git", :tag => "v#{s.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
